@@ -6,4 +6,5 @@
 * *Likelihood* metodes
  * *Maximum likelihood*
 * *Bayesian* metodes
----?image=pic/pipeline.png&size=auto 90%
+#### Darba plūsma (1)
+---?image=pic/pipeline.png&size=auto 80%
