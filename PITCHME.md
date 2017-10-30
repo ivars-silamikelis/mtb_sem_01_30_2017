@@ -7,5 +7,14 @@
  * *Maximum likelihood*
 * *Bayesian* metodes
 ---
-#### Darba plūsma (1)
-+++?image=pic/pipeline.png&size=auto 80%
+#### Atskats uz padarīto
+---?image=pic/pipeline.png&size=auto 80%
+---
+#### Kritēriju optimizācija
+
+---
+#### Jaunās lietas
+* Reģionu filtrs
+ * TGSTB
+* Pārklājuma dziļuma un procentiles optimizācija (Cik % paraugu jābūt pārklājumam X)
+
