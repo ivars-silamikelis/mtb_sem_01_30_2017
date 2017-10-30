@@ -6,4 +6,4 @@
 * *Likelihood* metodes
  * *Maximum likelihood*
 * *Bayesian* metodes
----?image=pic/pipeline.png
+---?image=pic/pipeline.png&size=auto 90%
