@@ -1,7 +1,11 @@
-## Filoģenētikas algoritmi
-Distanču matrica | Atsevišķi simboli
----------------- | -----------------
-UPGMA | Maximum Likelihood
-Neighbour joining | Bayesian inference
-
+## Filoģenētisko koku rekonstruēšanas algoritmi
+* Parsimonijas metodes
+* Distanču metodes
+ * *UPGMA*
+ * *Neighbout joining*
+* *Likelihood* metodes
+ * *Maximum likelihood*
+* *Bayesian* metodes
 ---
+
+
