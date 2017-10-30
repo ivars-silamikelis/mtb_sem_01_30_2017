@@ -6,5 +6,4 @@
 * *Likelihood* metodes
  * *Maximum likelihood*
 * *Bayesian* metodes
----
-![darba plūsma](pic/pipeline.png)
+---?image=pic/pipeline.png
