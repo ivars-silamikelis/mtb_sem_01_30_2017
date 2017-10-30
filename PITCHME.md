@@ -7,6 +7,4 @@
  * *Maximum likelihood*
 * *Bayesian* metodes
 ---
-
-#### Atskats uz izdarīto
 ![darba plūsma](pic/pipeline.png)
