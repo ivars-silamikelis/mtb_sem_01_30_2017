@@ -14,7 +14,9 @@
 
 ---
 #### Jaunās lietas
+---
 #### Trūkstošo datu ietekme uz filoģenētiku
+---
 #### Variantu filtri
 * Reģionu filtrs
  * TGSTB
