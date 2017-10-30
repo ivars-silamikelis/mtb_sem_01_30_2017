@@ -33,5 +33,5 @@
 * Reģionu filtrs
  * TGSTB
 * Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
-
+---
 #### Rezultāts
