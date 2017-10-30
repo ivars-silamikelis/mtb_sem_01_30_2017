@@ -1,4 +1,4 @@
-## Filoģenētisko koku rekonstruēšanas algoritmi
+### Filoģenētisko koku rekonstruēšanas algoritmi
 * Parsimonijas metodes
 * Distanču metodes
  * *UPGMA*
