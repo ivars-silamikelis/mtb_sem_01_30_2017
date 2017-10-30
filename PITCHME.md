@@ -1,4 +1,4 @@
-##Filoģenētikas algoritmi
+## Filoģenētikas algoritmi
 Distanču matrica | Atsevišķi simboli
 ---------------- | -----------------
 UPGMA | Maximum Likelihood
