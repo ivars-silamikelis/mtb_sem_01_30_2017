@@ -16,6 +16,7 @@
  * Reģionu filtrs
  * Pārklājuma un procentiles filtrs (Cik % paraugu jābūt pārklājumam X)
 
+---
 #### Paraugu atlase
 ---
 #### Paraugu ietekme uz koku
@@ -23,7 +24,9 @@
 #### Jaunās lietas
 ---
 #### Trūkstošo datu ietekme uz filoģenētiku
+---
 #### Minimālais SNP skaits
+---
 #### Klasteru tīrīšana
 ---
 #### Variantu filtri
