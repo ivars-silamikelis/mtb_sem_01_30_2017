@@ -10,15 +10,25 @@
 #### Atskats uz padarīto
 ---?image=pic/pipeline.png&size=auto 80%
 ---
-#### Kritēriju optimizācija
+#### Atlases kritēriju pārskats
+ * Izlēcošo paraugu identifikācija
+ * Paraugu ietekme uz koku (UPGMA/ML)
+ * Reģionu filtrs
+ * Pārklājuma un procentiles filtrs (Cik % paraugu jābūt pārklājumam X)
 
+#### Paraugu atlase
+---
+#### Paraugu ietekme uz koku
 ---
 #### Jaunās lietas
 ---
 #### Trūkstošo datu ietekme uz filoģenētiku
+#### Minimālais SNP skaits
+#### Klasteru tīrīšana
 ---
 #### Variantu filtri
 * Reģionu filtrs
  * TGSTB
-* Pārklājuma dziļuma un procentiles optimizācija (Cik % paraugu jābūt pārklājumam X)
+* Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
 
+#### Rezultāts
