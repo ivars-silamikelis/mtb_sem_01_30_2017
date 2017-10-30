@@ -14,6 +14,8 @@
 
 ---
 #### Jaunās lietas
+#### Trūkstošo datu ietekme uz filoģenētiku
+#### Variantu filtri
 * Reģionu filtrs
  * TGSTB
 * Pārklājuma dziļuma un procentiles optimizācija (Cik % paraugu jābūt pārklājumam X)
