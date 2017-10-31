@@ -35,4 +35,4 @@
 * Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
 ---
 #### Rezultāts
-![testing](pic/snp_nr.png)
+![](pic/snp_nr.png)
