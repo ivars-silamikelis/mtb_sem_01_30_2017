@@ -35,4 +35,5 @@
 * Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
 
 ---?image=pic/snp_nr.png&size=auto 70%
-
+---?image=pic/cov_dists.png&size=auto 70%
+---?image=pic/frac_dists.png&size=auto 70%
