@@ -23,18 +23,20 @@
 ![testing](pic/tree_dists.png)
 ---
 #### Jaunās lietas
----
-#### Trūkstošo datu ietekme uz filoģenētiku
----
-#### Minimālais SNP skaits
----
-#### Klasteru tīrīšana
+* Trūkstošo datu ietekme uz filoģenētiku
+* Minimālais SNP skaits
+* Klasteru tīrīšana
 ---
 #### Variantu filtri
 * Reģionu filtrs
  * TGSTB
 * Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
-
+---
+#### Pārklājuma un procentu filtra novērtējums
+* Pārklājuma dziļums 1..10
+* Procentu filtrs 50..100%, 5%
+* Izmantojot dažādas parametru kombinācijas atlasa variantus
+ * Kopā 110 parametru kombinācijas
 ---?image=pic/snp_nr.png&size=auto 70%
 ---?image=pic/cov_dists.png&size=auto 90%
 ---?image=pic/frac_dists.png&size=auto 90%
