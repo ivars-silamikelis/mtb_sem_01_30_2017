@@ -36,5 +36,5 @@
 ---
 #### Rezultāts
 <!--![](pic/snp_nr.png)-->
----?image=pic/snp_nr.png&size=auto 80%
+---?image=pic/snp_nr.png&size=auto 60%
 
