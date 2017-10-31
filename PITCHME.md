@@ -30,7 +30,7 @@
 #### Variantu filtri
 * Reģionu filtrs
  * TGSTB
-* Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
+* Pārklājuma dziļuma un procentu filtra novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
 ---
 #### Pārklājuma un procentu filtra novērtējums
 * Pārklājuma dziļums 1..10
