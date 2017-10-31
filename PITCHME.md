@@ -33,8 +33,6 @@
 * Reģionu filtrs
  * TGSTB
 * Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
----
-#### Rezultāts
-<!--![](pic/snp_nr.png)-->
+
 ---?image=pic/snp_nr.png&size=auto 60%
 
