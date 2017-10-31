@@ -30,13 +30,17 @@
 #### Variantu filtri
 * Reģionu filtrs
  * TGSTB
-* Pārklājuma dziļuma un procentu filtra novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
+* Pārklājuma dziļuma un procentu filtra novērtējums uz koku
+ * (Cik % paraugu jābūt pārklājumam X)
 ---
 #### Pārklājuma un procentu filtra novērtējums
-* Pārklājuma dziļums 1..10
-* Procentu filtrs 50..100%, 5%
+* Pārklājuma dziļums 1,2,3..10
+* Procentu filtrs 50,55,60..100%
 * Izmantojot dažādas parametru kombinācijas atlasa variantus
- * Kopā 110 parametru kombinācijas
+ * Kopā 110 parametru kombinācijas 
+ * (1,50%), (1,55%), ... , (10,100%)
+* Katrai kombinācijai Konstruē filoģenētisko koku (*Maximum likelihood*)
+* Aprēķina starp kokiem 
 ---?image=pic/snp_nr.png&size=auto 70%
 ---?image=pic/cov_dists.png&size=auto 90%
 ---?image=pic/frac_dists.png&size=auto 90%
