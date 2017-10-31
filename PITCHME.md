@@ -34,5 +34,5 @@
  * TGSTB
 * Pārklājuma dziļuma un procentiles novērtējums uz koku (Cik % paraugu jābūt pārklājumam X)
 
----?image=pic/snp_nr.png&size=auto 60%
+---?image=pic/snp_nr.png&size=auto 70%
 
