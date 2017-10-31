@@ -1,20 +1,19 @@
-#### Filoģenētisko koku rekonstruēšanas algoritmi
-* Parsimonijas metodes
-* Distanču metodes
- * *UPGMA*
- * *Neighbour joining*
-* *Likelihood* metodes
- * *Maximum likelihood*
-* *Bayesian* metodes
----
-#### Atskats uz padarīto
+<!--[>#### Filoģenētisko koku rekonstruēšanas algoritmi<]-->
+<!--* Parsimonijas metodes-->
+<!--* Distanču metodes-->
+ <!--* *UPGMA*-->
+ <!--* *Neighbour joining*-->
+<!--* *Likelihood* metodes-->
+ <!--* *Maximum likelihood*-->
+<!--* *Bayesian* metodes-->
+
 ---?image=pic/pipeline.png&size=auto 80%
 ---
 #### Atlases kritēriju pārskats
  * Paraugu atlase
  * Paraugu ietekme uz koku (UPGMA/ML)
  * Reģionu filtrs
- * Pārklājuma un procentiles filtrs (Cik % paraugu jābūt pārklājumam X)
+ * Pārklājuma un procentu filtrs (Cik % paraugu jābūt pārklājumam X)
 
 ---
 #### Paraugu atlase
@@ -46,3 +45,7 @@
 ---?image=pic/frac_dists.png&size=auto 90%
 ---?image=pic/evaluation.png&size=auto 70%
 ---?image=pic/aln.png&size=auto 90%
+
+---
+#### Trūkstošo datu ietekme uz filoģenētiku
+* Būtisks absolūtais zināmo SNP skaits (2000)
