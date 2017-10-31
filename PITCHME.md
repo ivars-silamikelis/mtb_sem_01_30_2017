@@ -39,8 +39,8 @@
 * Izmantojot dažādas parametru kombinācijas atlasa variantus
  * Kopā 110 parametru kombinācijas 
  * (1,50%), (1,55%), ... , (10,100%)
-* Katrai kombinācijai Konstruē filoģenētisko koku (*Maximum likelihood*)
-* Aprēķina starp kokiem 
+* Katrai kombinācijai konstruē filoģenētisko koku (*Maximum likelihood*)
+* Aprēķina starp kokiem *Robinsons-Foulds* distanci
 ---?image=pic/snp_nr.png&size=auto 70%
 ---?image=pic/cov_dists.png&size=auto 90%
 ---?image=pic/frac_dists.png&size=auto 90%
