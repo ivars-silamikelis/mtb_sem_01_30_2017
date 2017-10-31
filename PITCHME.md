@@ -11,7 +11,7 @@
 ---?image=pic/pipeline.png&size=auto 80%
 ---
 #### Atlases kritēriju pārskats
- * Izlēcošo paraugu identifikācija
+ * Paraugu atlase
  * Paraugu ietekme uz koku (UPGMA/ML)
  * Reģionu filtrs
  * Pārklājuma un procentiles filtrs (Cik % paraugu jābūt pārklājumam X)
@@ -20,6 +20,7 @@
 #### Paraugu atlase
 ---
 #### Paraugu ietekme uz koku
+![testing](pic/tree_dists.png)
 ---
 #### Jaunās lietas
 ---
