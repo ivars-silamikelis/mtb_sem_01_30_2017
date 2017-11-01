@@ -34,7 +34,7 @@
 ---?image=pic/cov_dists.png&size=auto 90%
 ---?image=pic/frac_dists.png&size=auto 90%
 ---?image=pic/evaluation.png&size=auto 70%
----?image=pic/aln.png&size=auto 90%
+---?image=pic/aln.png&size=auto 100%
 
 ---?image=pic/missing_data_impact.png&size=auto 70%
 
