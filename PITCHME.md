@@ -17,6 +17,10 @@
 
 ---
 #### Paraugu atlase
+![samples](pic/VCF_site_statistics_old.png)
+---
+#### Paraugu atlase
+![samples](pic/VCF_site_statistics_cov1_10.png)
 ---
 #### Paraugu ietekme uz koku
 ![testing](pic/tree_dists.png)
