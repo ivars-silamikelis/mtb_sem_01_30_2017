@@ -1,5 +1,5 @@
 
-#MTB LAM
+# MTB LAM
 ---?image=pic/pipeline.png&size=auto 80%
 ---
 #### Atlases kritēriji
