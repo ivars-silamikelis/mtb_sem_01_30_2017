@@ -49,3 +49,5 @@
 ---
 #### Trūkstošo datu ietekme uz filoģenētiku
 * Būtisks absolūtais zināmo SNP skaits (2000)
+* Līdz 68% trūkstošu datu neietekmē rezultātu
+![Missingdata](pic/missing_data_impact.png)
