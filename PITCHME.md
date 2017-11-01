@@ -39,3 +39,9 @@
 
 ---?image=pic/missing_data_impact.png&size=auto 70%
 
+---
+#### TODO:
+* Pāranalizēt ar pareizo paraugu filtru (procesā)
+* Apdeitot Igoru
+* Bayesian filoģenētikas parametru noteikšana (mutāciju biežumi utt)
+
