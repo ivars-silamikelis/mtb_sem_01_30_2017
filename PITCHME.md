@@ -1,5 +1,5 @@
 
----?image=pic/pipeline.png&size=auto 80%
+?image=pic/pipeline.png&size=auto 80%
 ---
 #### Atlases kritēriji
  * Paraugu atlase
