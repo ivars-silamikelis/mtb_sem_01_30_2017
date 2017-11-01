@@ -1,9 +1,8 @@
 
 ---?image=pic/pipeline.png&size=auto 80%
 ---
-#### Atlases kritēriju pārskats
+#### Atlases kritēriji
  * Paraugu atlase
- * Paraugu ietekme uz koku
  * Reģionu filtrs
  * Pārklājuma un procentu filtrs (Cik % paraugu jābūt pārklājumam X)
 
@@ -19,7 +18,7 @@
 ---
 #### Variantu filtri
 * Reģionu filtrs
- * TGSTB
+ * TGSTB (28374 -> 22240)
 * Pārklājuma dziļuma un procentu filtra novērtējums uz koku
  * (Cik % paraugu jābūt pārklājumam X)
 ---
@@ -37,5 +36,5 @@
 ---?image=pic/evaluation.png&size=auto 70%
 ---?image=pic/aln.png&size=auto 90%
 
----?image=pic/missing_data_impact.png&size=auto 90%
+---?image=pic/missing_data_impact.png&size=auto 70%
 
