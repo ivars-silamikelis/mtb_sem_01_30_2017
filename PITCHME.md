@@ -1,5 +1,6 @@
 
-?image=pic/pipeline.png&size=auto 80%
+#MTB LAM
+---?image=pic/pipeline.png&size=auto 80%
 ---
 #### Atlases kritēriji
  * Paraugu atlase
