@@ -626,12 +626,16 @@
    style="font-style:italic">Alignment</tspan> pēc filtra</tspan></text>
     </g>
     <g
-       id="g965">
-      <image
-         width="386.02707"
-         height="221.19167"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABbMAAANECAIAAAAFXiXaAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+       id="g993"
+       inkscape:export-xdpi="148.50333"
+       inkscape:export-ydpi="148.50333">
+      <g
+         id="g965">
+        <image
+           y="985.27277"
+           x="-1023.9545"
+           id="image949"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABbMAAANECAIAAAAFXiXaAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOyde1xU17X415kZUEgCZnDUKCqIwFytkQo+gV41sWIJeGOkJuK7Nr/ERh62aZvXB6kxyb23VTHW
 5JOaiI+Y5iZNZAxpc23ABohRBkOSq8741hmVhHB8MjzmzJzfH0t2tufMDMNDQFnfTz75yJl99ll7
 n73X2nudvdcWZFkGgiAIgiAIgiAIgiCIXommuwUgCIIgCIIgCIIgCILoNsgzQhAEQRAEQRAEQRBE
@@ -3996,14 +4000,14 @@ ZVVGhp5PpK++PV3ewNPTrwyMGQGG4PF4FEUxGo3nu1gvgMtLQFWbW1qEENdOnTriJz9eRXF7PEII
 /Q4MwKVMdvx+r/IyDUGcycRa2sDlSL+sD35FpqdDIjICAAAAAADCF7NpAAAAAABA+CIyAgAAAAAA
 wheREQAAAAAAEL6IjAAAAAAAgPD1/wHLOSTHHg2ElQAAAABJRU5ErkJggg==
 "
-         id="image949"
-         x="-1023.9545"
-         y="985.27277" />
-      <image
-         width="184.94376"
-         height="204.78751"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArsAAAMGCAIAAAB9ItvKAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+           preserveAspectRatio="none"
+           height="221.19167"
+           width="386.02707" />
+        <image
+           y="985.27277"
+           x="-637.92749"
+           id="image960"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArsAAAMGCAIAAAB9ItvKAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOzdfVxUdf43/rcyWoyKOng2b8YSRWd+7dXiJaQSsIGuiV9j2Lbc2lZTy/qVJYi7td35mLi63d2S
 m1rrKgtIc9d0txgkcP0WGExogcm2+T0DmFoTkAOjos6ozOj1x6fOTmdugbk983o+evQ48zmfOfMe
 Bjzv+dwOu3z5MgEAAAB4NDzUAQAAAEAEQMYAAAAA3iFjAAAAAO+QMQAAAIB3yBgAAADAO2QMAAAA
@@ -4735,9 +4739,23 @@ KWEAAFB1yje7UheqAQAAVadMPQYp1wsAAKqU/1MVPv3kolnw3nEySqkbMzND/QP5O797ZphhDQAA
 VD7/ewyWZcmkSpNt2/n1qJRSieM99BgAAKh8fvYYIpHGzT592BkK+dgAAABQIuWoXQkAAKrd1lSi
 AgAA1YUeAwAA2Bg9BgAAsDF6DAAAYGP/AG+ljPlFrz+QAAAAAElFTkSuQmCC
 "
-         id="image960"
-         x="-637.92749"
-         y="985.27277" />
+           preserveAspectRatio="none"
+           height="204.78751"
+           width="184.94376" />
+      </g>
+      <text
+         id="text969"
+         y="1211.2996"
+         x="-573.02588"
+         style="font-style:normal;font-weight:normal;font-size:21.16666603px;line-height:2.64583325px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.28888893px;stroke-width:0.26458332px"
+           y="1211.2996"
+           x="-573.02588"
+           id="tspan967"
+           sodipodi:role="line">Roure <tspan
+   id="tspan971"
+   style="font-style:italic">et al</tspan> (2012)</tspan></text>
     </g>
   </g>
 </svg>
